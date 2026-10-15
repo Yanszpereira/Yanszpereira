@@ -71,5 +71,5 @@ Independent software project focused on **local tooling**, **automation**, and r
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yan-vinicius-79758351/)
+- [LinkedIn](www.linkedin.com/in/yan-vinicius-793758351)
 - [GitHub](https://github.com/Yanszpereira)
