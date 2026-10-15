@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="Infrastructure, Cybersecurity and Software Development" width="100%">
+</p>
+
 <h1 align="center">Hi, I'm Yan Pereira 👋</h1>
 
 <p align="center">
